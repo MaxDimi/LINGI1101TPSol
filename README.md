@@ -1,0 +1,9 @@
+# LINGI1101TPSol
+Solutions of the exercises of the course LING1101 - made by students
+
+Ce document reprend les solutions des exercices du cours LINGI1101 dispensé par M. Peter Van Roy au cours de l'année académique 2016-2017.
+La quasi totalité de ces solutions ont été rédigées par des étudiants, et il est donc important de rester critique en les consultant : des erreurs subsistent, et la matière peut avoir changé.
+
+Une partie du document a été révisée par un assistant, François Aubry, et le PDF de la correction se trouve parmi les fichiers du code source.
+
+N'hésitez pas à vous servir de ce document et à le reprendre pour le corriger, l'améliorer et l'étendre.
